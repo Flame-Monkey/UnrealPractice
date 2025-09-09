@@ -4,7 +4,7 @@
 #include "MyController.h"
 #include "EnhancedInputSubsystems.h"
 #include "EnhancedInputComponent.h"
-#include "MySlate.h"
+#include "Slate/MySlate.h"
 
 AMyController::AMyController()
 {
