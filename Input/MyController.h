@@ -15,7 +15,7 @@ class SMySlate;
  * 
  */
 UCLASS()
-class MYPROJECT_API AMyController : public APlayerController
+class MYUNREALPRACTICE_API AMyController : public APlayerController
 {
 	GENERATED_BODY()
 	

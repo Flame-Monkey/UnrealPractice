@@ -12,7 +12,7 @@ class UInputAction;
 struct FInputActionValue;
 
 UCLASS()
-class MYPROJECT_API AMyCharacter : public ACharacter
+class MYUNREALPRACTICE_API AMyCharacter : public ACharacter
 {
 	GENERATED_BODY()
 

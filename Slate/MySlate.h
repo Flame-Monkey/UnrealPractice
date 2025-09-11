@@ -11,7 +11,7 @@
 
 class SButton;
 
-class MYPROJECT_API SMySlate : public SCompoundWidget
+class MYUNREALPRACTICE_API SMySlate : public SCompoundWidget
 {
 public:
 	SLATE_BEGIN_ARGS(SMySlate)

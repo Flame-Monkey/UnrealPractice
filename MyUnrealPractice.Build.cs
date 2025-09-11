@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class MyProject : ModuleRules
+public class MyUnrealPractice : ModuleRules
 {
-	public MyProject(ReadOnlyTargetRules Target) : base(Target)
+	public MyUnrealPractice(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
@@ -14,7 +14,7 @@ public class MyProject : ModuleRules
 
         PublicIncludePaths.AddRange(
             new string[] {
-                "MyProject"
+                "MyUnrealPractice"
             }
         );
 

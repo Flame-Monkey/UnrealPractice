@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class MYPROJECT_API AMyGameMoveBase : public AGameModeBase
+class MYUNREALPRACTICE_API AMyGameMoveBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
